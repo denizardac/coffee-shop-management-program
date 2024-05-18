@@ -1,0 +1,23 @@
+                                                                          The Purpose of the Program:
+Coffee Shop Management Program is a game designed to meet the need for an engaging and interactive simulation that combines coffee crafting, accurate delivery of coffee and food that customers want, and exploration elements (discovering new coffees by buying new ingredients and combining them with each other). The challenge at hand is to create a program that provides players with a virtual coffee-making experience, encouraging them to explore various combinations, deliver orders accurately, and come up with new recipes.
+
+
+                                                                         Key Features of the Program:
+ Coffee Crafting: Players can combine different ingredients to make a variety of hot and cold coffee drinks. In addition, they can produce new coffees by combining the coffees they have produced before with different materials. 
+ Discover New Recipes: As players progress through the game, they have the opportunity to unlock new coffee recipes. Each discovery adds depth to the gameplay and introduces exciting combinations.  
+ Player Health: The game adds an element of challenge by introducing a health system for the player. As the days progress, players must be careful to sell customers' requests to them correctly in order to maintain their health.
+ Interactive Console Interface: The console-based interface provides a simple and interactive platform for players to navigate through the game, make choices, and witness the outcomes of their decisions.
+ Food System: In addition to the coffee-making aspect, the game incorporates a food system to enhance the overall gaming experience. The goal is to expand the gameplay by introducing a parallel system where players can manage and serve food items along with their coffee creations. The player can get deserts and snacks needed for the shop in the same way as they buy coffee supplies and offer them to incoming customers.
+ Budget Management: Players generate income through the sale of coffee and food items to in-game customers.Players need to purchase ingredients other than coffe bean, milk and honey. Each ingredient has a specific cost.
+
+
+                                                                         Suggestions / Shortcomings:
+  The program does not currently have direct user interaction, but it can be extended to get user input for component combinations or to add new materials to the game.
+The program is also designed to be extensible by adding more coffee types, ingredients, or features in the future.More game elements, challenges, or objectives can be added to make the experience more dynamic and interesting for the player.Also to enhance the gaming experience, it may be considered to include a story that immerses players in a specific setting, such as a crowded city, a fantasy land, or a historical period. A variety of characters can be added, such as competitors, suppliers, and mentors, each with their own unique backstories that would add depth to the game.
+Dialogues and cutscenes can be used to further engage players, convey a story, and uncover new challenges and opportunities. By creating decision points within the game, players' choices can be allowed to influence the narrative and relationships, unlocking possibilities.
+
+                                                                    					  Result:
+The implemented game structure offers a unique and fun coffee-making experience. Set in a cafe, players can scroll through a variety of coffee recipes, decide which ingredients to buy, and complete orders with new coffee recipes.
+Having a health system for the player provides a challenging aspect that requires careful decision-making, as it ensures to deliver coffee orders accurately. Orders of newly discovered recipes create a sense of accomplishment and progression for players.
+The budget management system introduces an economic challenge, thus making players think about what ingredients to buy to have new coffee recipes. 
+In summary, the current program offers a solid foundation for a coffee-making simulation game. If the suggestions mentioned above properly added to the game, it can elevate the game and provide a more comprehensive and enjoyable experience for players
